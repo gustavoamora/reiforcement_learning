@@ -1,4 +1,4 @@
-# reiforcement_learning
+# reinforcement_learning
 Reinforcement Learning Problems
 
 ### Aprendizado por Reforço
