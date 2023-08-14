@@ -22,10 +22,8 @@ diferentes.
 
 ## Análise de Resultados:
 
-Obrigatório: deve ser informada a configuração dos parâmetros utilizados para o treinamento, por exemplo: qual política utilizada e a quantidade necessária de episódios de treinamento para o agente poder 
+Deve ser informada a configuração dos parâmetros utilizados para o treinamento, por exemplo: qual política utilizada e a quantidade necessária de episódios de treinamento para o agente poder 
 resolver o problema, dentre outros. Além disso, deve ser apresentado um vídeo com o agente solucionando o problema no ambiente.
-
-Desejável: [100%] Monitoramento do desempenho do agente ao longo do tempo: um gráfico com as curvas de aprendizado ao longo dos episódios.
 
 ## Relatório: 
 Elaborar um relatório descrevendo o processo de implementação e análise de cada problema. O relatório deve conter uma introdução, uma breve descrição dos ambientes “Mountain Car” e “Car Racing” e, 
